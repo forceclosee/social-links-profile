@@ -33,7 +33,7 @@ Users should be able to:
 <!-- edit live site url -->
 
 - Solution URL: [solution](https://github.com/forceclosee/social-links-profile)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Live Site URL: [live site](https://forceclose-social-links-profile.pages.dev/)
 
 ## My process
 
