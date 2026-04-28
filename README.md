@@ -28,9 +28,7 @@ Users should be able to:
 
 ![](/assets/img/Screenshot.png)
 
-### Links
-
-<!-- edit live site url -->
+### Linkss
 
 - Solution URL: [solution](https://github.com/forceclosee/social-links-profile)
 - Live Site URL: [live site](https://forceclose-social-links-profile.pages.dev/)
